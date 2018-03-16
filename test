@@ -1,0 +1,1 @@
+C:\Program Files\PuTTY>pscp.exe "D:\install\index.js" root@bountybot.tk:cd/home/dokku
